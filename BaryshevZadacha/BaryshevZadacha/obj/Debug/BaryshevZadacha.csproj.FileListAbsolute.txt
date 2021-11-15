@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\BaryshevZadacha\BaryshevZadacha\bin\Debug\BaryshevZadacha.exe.config
+C:\Users\student\source\repos\BaryshevZadacha\BaryshevZadacha\bin\Debug\BaryshevZadacha.exe
+C:\Users\student\source\repos\BaryshevZadacha\BaryshevZadacha\bin\Debug\BaryshevZadacha.pdb
+C:\Users\student\source\repos\BaryshevZadacha\BaryshevZadacha\obj\Debug\BaryshevZadacha.csprojAssemblyReference.cache
+C:\Users\student\source\repos\BaryshevZadacha\BaryshevZadacha\obj\Debug\BaryshevZadacha.Form1.resources
+C:\Users\student\source\repos\BaryshevZadacha\BaryshevZadacha\obj\Debug\BaryshevZadacha.Properties.Resources.resources
+C:\Users\student\source\repos\BaryshevZadacha\BaryshevZadacha\obj\Debug\BaryshevZadacha.csproj.GenerateResource.cache
+C:\Users\student\source\repos\BaryshevZadacha\BaryshevZadacha\obj\Debug\BaryshevZadacha.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\BaryshevZadacha\BaryshevZadacha\obj\Debug\BaryshevZadacha.exe
+C:\Users\student\source\repos\BaryshevZadacha\BaryshevZadacha\obj\Debug\BaryshevZadacha.pdb
+C:\Users\student\source\repos\BaryshevZadacha\BaryshevZadacha\obj\Debug\BaryshevZadacha.Form3.resources
+C:\Users\student\source\repos\BaryshevZadacha\BaryshevZadacha\obj\Debug\BaryshevZadacha.Form2.resources

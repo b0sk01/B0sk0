@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\DostavkaBaryshev\DostavkaBaryshev\bin\Debug\DostavkaBaryshev.exe.config
+C:\Users\student\source\repos\DostavkaBaryshev\DostavkaBaryshev\bin\Debug\DostavkaBaryshev.exe
+C:\Users\student\source\repos\DostavkaBaryshev\DostavkaBaryshev\bin\Debug\DostavkaBaryshev.pdb
+C:\Users\student\source\repos\DostavkaBaryshev\DostavkaBaryshev\obj\Debug\DostavkaBaryshev.csprojAssemblyReference.cache
+C:\Users\student\source\repos\DostavkaBaryshev\DostavkaBaryshev\obj\Debug\DostavkaBaryshev.Form1.resources
+C:\Users\student\source\repos\DostavkaBaryshev\DostavkaBaryshev\obj\Debug\DostavkaBaryshev.Properties.Resources.resources
+C:\Users\student\source\repos\DostavkaBaryshev\DostavkaBaryshev\obj\Debug\DostavkaBaryshev.csproj.GenerateResource.cache
+C:\Users\student\source\repos\DostavkaBaryshev\DostavkaBaryshev\obj\Debug\DostavkaBaryshev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DostavkaBaryshev\DostavkaBaryshev\obj\Debug\DostavkaBaryshev.exe
+C:\Users\student\source\repos\DostavkaBaryshev\DostavkaBaryshev\obj\Debug\DostavkaBaryshev.pdb

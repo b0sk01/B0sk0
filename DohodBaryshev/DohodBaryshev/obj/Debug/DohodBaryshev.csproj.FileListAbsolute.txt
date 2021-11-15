@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\DohodBaryshev\DohodBaryshev\obj\Debug\DohodBaryshev.csprojAssemblyReference.cache
+C:\Users\student\source\repos\DohodBaryshev\DohodBaryshev\obj\Debug\DohodBaryshev.Properties.Resources.resources
+C:\Users\student\source\repos\DohodBaryshev\DohodBaryshev\obj\Debug\DohodBaryshev.csproj.GenerateResource.cache
+C:\Users\student\source\repos\DohodBaryshev\DohodBaryshev\obj\Debug\DohodBaryshev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DohodBaryshev\DohodBaryshev\bin\Debug\DohodBaryshev.exe.config
+C:\Users\student\source\repos\DohodBaryshev\DohodBaryshev\bin\Debug\DohodBaryshev.exe
+C:\Users\student\source\repos\DohodBaryshev\DohodBaryshev\bin\Debug\DohodBaryshev.pdb
+C:\Users\student\source\repos\DohodBaryshev\DohodBaryshev\obj\Debug\DohodBaryshev.Form1.resources
+C:\Users\student\source\repos\DohodBaryshev\DohodBaryshev\obj\Debug\DohodBaryshev.exe
+C:\Users\student\source\repos\DohodBaryshev\DohodBaryshev\obj\Debug\DohodBaryshev.pdb

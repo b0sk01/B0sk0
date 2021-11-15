@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\ArendaAvtoBaryshev\ArendaAvtoBaryshev\bin\Debug\ArendaAvtoBaryshev.exe.config
+C:\Users\student\source\repos\ArendaAvtoBaryshev\ArendaAvtoBaryshev\bin\Debug\ArendaAvtoBaryshev.exe
+C:\Users\student\source\repos\ArendaAvtoBaryshev\ArendaAvtoBaryshev\bin\Debug\ArendaAvtoBaryshev.pdb
+C:\Users\student\source\repos\ArendaAvtoBaryshev\ArendaAvtoBaryshev\obj\Debug\ArendaAvtoBaryshev.csprojAssemblyReference.cache
+C:\Users\student\source\repos\ArendaAvtoBaryshev\ArendaAvtoBaryshev\obj\Debug\ArendaAvtoBaryshev.Form1.resources
+C:\Users\student\source\repos\ArendaAvtoBaryshev\ArendaAvtoBaryshev\obj\Debug\ArendaAvtoBaryshev.Properties.Resources.resources
+C:\Users\student\source\repos\ArendaAvtoBaryshev\ArendaAvtoBaryshev\obj\Debug\ArendaAvtoBaryshev.csproj.GenerateResource.cache
+C:\Users\student\source\repos\ArendaAvtoBaryshev\ArendaAvtoBaryshev\obj\Debug\ArendaAvtoBaryshev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ArendaAvtoBaryshev\ArendaAvtoBaryshev\obj\Debug\ArendaAvtoBaryshev.exe
+C:\Users\student\source\repos\ArendaAvtoBaryshev\ArendaAvtoBaryshev\obj\Debug\ArendaAvtoBaryshev.pdb
