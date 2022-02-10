@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Baryshev2Listing\Baryshev2Listing\bin\Debug\Baryshev2Listing.exe.config
+C:\Users\user\source\repos\Baryshev2Listing\Baryshev2Listing\bin\Debug\Baryshev2Listing.exe
+C:\Users\user\source\repos\Baryshev2Listing\Baryshev2Listing\bin\Debug\Baryshev2Listing.pdb
+C:\Users\user\source\repos\Baryshev2Listing\Baryshev2Listing\obj\Debug\Baryshev2Listing.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Baryshev2Listing\Baryshev2Listing\obj\Debug\Baryshev2Listing.Form1.resources
+C:\Users\user\source\repos\Baryshev2Listing\Baryshev2Listing\obj\Debug\Baryshev2Listing.Properties.Resources.resources
+C:\Users\user\source\repos\Baryshev2Listing\Baryshev2Listing\obj\Debug\Baryshev2Listing.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Baryshev2Listing\Baryshev2Listing\obj\Debug\Baryshev2Listing.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Baryshev2Listing\Baryshev2Listing\obj\Debug\Baryshev2Listing.exe
+C:\Users\user\source\repos\Baryshev2Listing\Baryshev2Listing\obj\Debug\Baryshev2Listing.pdb
